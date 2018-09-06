@@ -1,17 +1,16 @@
 # Markdown
 
+## Markdown Playground
 
-Three or more...
+<p>Does HTML work?</p>
 
----
-
-Hyphens
+<ul>
+<li>Test</li>
+<li>Test</li>
+<li>Test</li>
+</ul>
 
 ***
 
-Asterisks
-
-___
-
-Underscores
-
+<h3>Images?</h3>
+<img src="https://via.placeholder.com/350x150" >
